@@ -36,6 +36,8 @@ class Student {
   }
 }
 
+// gradebook menu for student
+
 public class Gradebook {
   public static void main(String[] args) {
     ArrayList<Student> students = new ArrayList<>();
